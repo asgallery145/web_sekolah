@@ -44,7 +44,7 @@ body{
     color: white;
     -webkit-text-stroke-width: 1.2px;
     -webkit-text-stroke-color: rgb(8, 2, 2);
-    font-weight: bolder;
+    font-weight: 100;
     display: grid;
     place-content:center;
     text-align: center;
@@ -61,8 +61,8 @@ body{
     background-size: cover;
 }
 .features .price{
-    font-size: 1.4em;
-    font-weight: bold;
+    font-size: 1.2em;
+    font-weight: 100;
 
 }
 /* Navigasi*/
