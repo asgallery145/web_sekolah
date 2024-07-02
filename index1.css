@@ -31,7 +31,7 @@ body{
     background-size: cover;
     background-position: center;
     padding: 5px;
-    text-align: center;
+    text-align: left;
 }
 .hero > *{
     display: none;
@@ -47,7 +47,7 @@ body{
     font-weight: 100;
     display: grid;
     place-content:center;
-    text-align: center;
+    text-align: left;
     cursor: pointer;
 }
 .feature-1{
