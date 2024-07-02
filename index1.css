@@ -27,7 +27,7 @@ body{
 .hero{
     grid-area: hero;
     min-height: 650px;
-    background-image: url(osikelulusan.jpg);
+    background-image: url(p5m.jpeg);
     background-size: cover;
     background-position: center;
     padding: 5px;
@@ -57,7 +57,7 @@ body{
 }
 .feature-2{
     grid-area: feature-2;
-    background-image: url(p5m.jpeg);
+    background-image: url(p5m2.jpeg);
     background-size: cover;
 }
 .features .price{
