@@ -27,7 +27,7 @@ body{
 .hero{
     grid-area: hero;
     min-height: 650px;
-    background-image: url(p5m.jpeg);
+    background-image: url(sambutan.jpeg);
     background-size: cover;
     background-position: center;
     padding: 5px;
