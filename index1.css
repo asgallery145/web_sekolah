@@ -57,7 +57,7 @@ body{
 }
 .feature-2{
     grid-area: feature-2;
-    background-image: url(img/p5m.jpeg);
+    background-image: url(p5m.jpeg);
     background-size: cover;
 }
 .features .price{
